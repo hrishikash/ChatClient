@@ -1,0 +1,39 @@
+#chatlog{
+	font-family: 'Coming Soon', handwriting;
+}
+
+.unameChat{
+	font-family: 'Righteous', display;
+}
+
+.selected_contact{
+	background-color: lightgreen;
+}
+
+.hide_content{
+	display: none;
+}
+
+.messageLeft{
+	text-align: left;
+}
+
+.messageRight{
+	text-align: right;
+}
+
+.notify{
+	display: none;
+}
+
+.errorMessage{
+	color: red;
+	text-align: center;
+	font-weight: bold;
+}
+
+.serverDownMessage{
+	color: #f2f2f2;
+	padding-left: 40%;
+	padding-top: 20%;
+}
